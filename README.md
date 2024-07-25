@@ -20,6 +20,8 @@ Welcome to our Banking Website! This project is designed using HTML, CSS, and Ja
 ## Getting Started
 
 ### Prerequisites
+**Login id**: Suraj,
+**Password**: Shukla
 
 Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge) and try to open website on laptop or desktop for the best user experience.
 
